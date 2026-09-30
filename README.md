@@ -1,4 +1,4 @@
-# 🎬 Movie Explorer
+# Movie Explorer
 
 A responsive Movie Explorer application built with **React** and **TVMaze API**.
 
