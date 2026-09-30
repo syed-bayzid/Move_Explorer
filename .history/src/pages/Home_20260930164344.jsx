@@ -1,1 +1,0 @@
-import Navbar from "../components/Navbar"; import HeroBanner from "../components/HeroBanner"; import Footer from "../components/Footer"; const Home = () => { return ( <div className="min-h-screen flex flex-col bg-black"> {/* Fixed Navbar */} <Navbar /> {/* Main Content */} <main className="flex-1"> <HeroBanner /> </main> {/* Footer */} <Footer /> </div> ); }; export default Home;
